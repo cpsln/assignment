@@ -1,6 +1,6 @@
 ## Setup:
 
-1. Install Python [v3.9.6] (https://www.python.org/downloads/release/python-390/) or above.
+1. Install Python [v3.9.0](https://www.python.org/downloads/release/python-390/) or above.
 
 2. Download and install [Docker Desktop](https://docs.docker.com/desktop/install/mac-install/).
     - Run the docker desktop and accept terms and conditions.
